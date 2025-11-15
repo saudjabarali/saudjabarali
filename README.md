@@ -6,7 +6,7 @@ Machine Learning | Computer Vision | NLP | Analytics
 
 🎓 B.Tech Artificial Intelligence & Data Science (2022–2026)
 
-🔭 Working on: Smart Vehicle Compliance & Fake Number Plate Detection
+🔭 Working on: AI-Driven Detection of Thermal Irregularities in Induction Motors
 
 📝 Published at ICONIC 2K25 – International Conference
 
