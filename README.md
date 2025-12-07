@@ -6,7 +6,7 @@ Machine Learning | Computer Vision | NLP | Analytics
 
 🎓 B.Tech Artificial Intelligence & Data Science (2022–2026)
 
-🔭 Working on: AI-Driven Detection of Thermal Irregularities in Induction Motors
+🔭 Working on: AI-Powered 3D Holographic Navigation & Assistant System
 
 📝 Published at ICONIC 2K25 – International Conference
 
