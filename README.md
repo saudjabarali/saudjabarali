@@ -1,8 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Saud%20Jabar%20Ali&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=55&descColor=8b949e" />
+# 👋 Hi, I'm Saud Jabar Ali
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Computer+Vision+%7C+NLP;2x+International+Conference+Author;Building+AI-Powered+3D+Holographic+Systems;B.Tech+AI+%26+Data+Science+%7C+2022%E2%80%932026)](https://git.io/typing-svg)
+### 🤖 AI & Data Science Engineer
+
+**Machine Learning • Computer Vision • NLP • Analytics**
+
+*2x International Conference Author | B.Tech AI & DS 2022–2026*
+
 
 <br/>
 
@@ -96,11 +101,7 @@ saud = {
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=saudjabarali&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=saudjabarali&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://streak-stats.demolab.com?user=saudjabarali&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -126,9 +127,6 @@ saud = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
-
 *"The best way to predict the future is to invent it." — Alan Kay*
 
 </div>
-
